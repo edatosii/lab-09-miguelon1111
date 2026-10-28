@@ -8,3 +8,5 @@ CREATE TABLE IF NOT EXISTS estudiantes (
     correo   VARCHAR(100) NOT NULL UNIQUE,
     semestre INT          NOT NULL
 );
+
+
